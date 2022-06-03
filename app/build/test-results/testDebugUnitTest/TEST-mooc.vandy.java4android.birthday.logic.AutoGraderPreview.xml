@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mooc.vandy.java4android.birthday.logic.AutoGraderPreview" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-03T14:09:55" hostname="LAPTOP-7EO4TG1C" time="9.07">
+  <properties/>
+  <testcase name="graderPreview" classname="mooc.vandy.java4android.birthday.logic.AutoGraderPreview" time="9.07"/>
+  <system-out><![CDATA[
+
+Your assignment HAS NOT BEEN SUBMITTED. The following test results only
+estimate your grade.
+
+
+Your estimated score is: 90.0/90
+(This is not your actual grade for this assignment, just an estimate. Your
+official grade will be calculated after you submit your submission.zip file to
+Coursera.
+
+
+------------------------------Assignment Evaluation-----------------------------
+--------Your solution received points for the following grading rubrics:--------
+
+
+testResultRange
+Rubric Score: 30.0/30.0
+Goal: The goal of this evaluation is to test ResultRange return values.
+Reference: This Test fails when: calculate returns a value outside the range.
+
+testEfficiency
+Rubric Score: 30.0/30.0
+Goal: The goal of this evaluation is to test overall solution efficiency.
+Reference: This Test fails when: the solution is slow and inefficient.
+
+testCalculateThreshold
+Rubric Score: 30.0/30.0
+Goal: The goal of this evaluation is to test Calculate with return values within
+a threshold
+Reference: This Test fails when: calculate method failed to meet a 3% threshold.
+
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
